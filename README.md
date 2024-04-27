@@ -1,2 +1,2 @@
 # bookbot
-Bookbot is my first python project!
+Bookbot is for practicing python!
